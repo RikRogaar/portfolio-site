@@ -49,7 +49,7 @@ Checkout some of my projects:
 
 `
 
-const aboutText = `
+const indexText = `
 /index
 
 Hi, welcome to my portfolio!
@@ -88,7 +88,7 @@ function App() {
         <div style={{ width: '1000px', height: '600px' }}>
           <Terminal
             queue={eventQueue}
-            banner={[textLine({ words: [textWord({ characters: 'Hi, welcome to my portfolio!' })] })]}
+            banner={[textLine({ words: [textWord({ characters: indexText })] })]}
             onCommand={(command) => {
               switch(command) {
                 case 'help':
