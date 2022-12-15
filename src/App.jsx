@@ -49,6 +49,16 @@ Checkout some of my projects:
 
 `
 
+const aboutText = `
+/index
+
+Hi, welcome to my portfolio!
+
+Get started by typing 'cd about' or 'cd projects'!
+
+To see all commands, type 'help'
+`;
+
 const theme = createTheme({
   type: 'dark',
   theme: {
@@ -66,8 +76,6 @@ const theme = createTheme({
     }
   }
 });
-
-
 
 function App() {
   const eventQueue = useEventQueue();
