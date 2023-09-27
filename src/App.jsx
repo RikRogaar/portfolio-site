@@ -22,25 +22,25 @@ const helpText = `
 const aboutText = `
 pages/about
 
-My name is Rik Rogaar and I'm 17 years old with a passion for development.
+My name is Rik Rogaar and I'm 18 years old with a passion for development.
 I'm currently at Bit Academy in Groningen, specializing in web development.
+I'm also currently employed at Qlic in Groningen.
 I'm a very curious person and I love to learn new things and put myself in new situations.
 
-I've been programming for about 4 years now and I'm always looking for new challenges.
+I've been programming for about 5 years now and I'm always looking for new challenges.
 My passion for development started when I was 13 years old and started to script maps for cod4.
 I took a few years off and started again when I was 15 years old.
 
 My skills:
  - Html/Css | Master
- - Bootstrap | Advanced
- - NextUi | Competent
- - Javascript | Advanced
- - Php | Advanced
+ - Javascript | Master
+ - Php | Master
+ - Angular | Advanced
+ - Laravel | Advanced
  - Mysql | Advanced
- - Twig | Beginner
- - React | Beginner
- - Git | Competent
-
+ - React | Competent
+ - Git | Advanced
+ - CI/CD | Competent
 `
 
 const projectsText = `
